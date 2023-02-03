@@ -1,7 +1,6 @@
-# FSD2 Assignment
+# Food Delivery App
 
-Name : - Sachin Meena\
-Roll No : - S20200010181
+
 
 ## Installation and running
 
